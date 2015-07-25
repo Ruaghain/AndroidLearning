@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouTube Player</string>
+    <string name="Start">Start</string>
+    <string name="PlayVideo">Play Video</string>
+    <string name="StandaloneSubMenu">Standalone Submenu</string>
+</resources>
